@@ -1,4 +1,4 @@
-   这是一个使用Jertpack Compose框架和Kotlin语言编写的Andorid应用，最低指出版本为Android 8.1，名字叫core，解释为核心，自我核心，换句话说就是自己的内核。
+   这是一个使用Jetpack Compose框架和Kotlin语言编写的Andorid应用，最低指出版本为Android 8.1，名字叫core，解释为核心，自我核心，换句话说就是自己的内核。
 
   这是我的第1个开源的软件，第2个Android软件，而第1个Android软件被我送给别人啦！所有就不开源咯~~~
 
